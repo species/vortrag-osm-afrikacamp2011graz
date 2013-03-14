@@ -1,0 +1,140 @@
+Einsteiger-Vortrag
+
+Themen
+  Was ist OSM
+    Wachstum in den letzten Jahren
+    Haiti project
+    wer steht dahinter?
+      menschen wie du und ich
+      Firmen, verwendung ihrer Daten erlauben
+  warum OSM?
+    Free as in Beer/Freedom -> bash Google!
+  Was bringt mir OSM?
+    Anwendungen Fuer Navis
+        Android-apps?
+        iOS-Apps?
+      Webseiten
+        OSM.org
+          nominatim
+          data display
+        openstreetbrowser
+
+      Spezialkarten
+        Radkarten
+        Wanderkarten
+        Rauchfrei-Karte
+        Rollstuhl-Karten
+        Seekarte
+      routing
+        Fahrradrouting
+        Wheelchair-routing
+        fussgaenger-routing
+
+    Daten
+    Lizenz
+  Wie kann ich mitmachen?
+   webseiten
+    openstreetbugs
+    opengastromap
+    Potlatch
+    GPS-tracks
+    JOSM
+    merkaartor
+   wiki
+
+  community
+    talk-at mailingliste
+    Stammtische 
+
+    Stammtisch?
+    -> Projektstand???
+
+
+
+Title: Die freie Weltkarte für Jeden
+  ev. Weltverbesserung mit freien Geodaten!
+
+Abstract
+OpenStreetMap, die wirklich freie Alternative zu Google Maps - kann vieles besser: zB Fahrradrouting, Rauchfrei-Karte... Wie eine freie Karte nach dem Wiki-Prinzip funktioniert, und was ich selbst davon habe - das gibts in diesem Motivationsvortrag! Zielgruppe: Jeder! Keinerlei Informatikkenntnisse vonnoeten :-)
+
+
+
+
+Description:
+
+  Gliederung desc
+    -was ist das Projekt OSM?
+      warum
+
+    -was gibts im Vortrag
+      
+    -weitere informationen
+
+Abgegeben:
+
+In den letzten Jahren sind Online-Kartendienste immer populärer geworden.
+
+OpenStreetMap - die freie Weltkarte nach dem Wiki-Prinzip - versucht freies Kartenmaterial für jedermann zur Verfügung zu stellen.
+
+Die Hauptarbeit hierbei leisten Freiwillige, aber auch immer mehr Organisationen stellen ihre Daten unter einer freien Lizenz zur Verfügung.
+
+Der Unterschied zu anderen Kartenanbietern wie zB Google Maps ist, dass auch die Rohdaten frei zugänglich sind.
+
+Daraus sind in den letzten Jahren einige interessante Projekte entstanden, zB Fahrrad-Routingdienste und Karten, Wanderkarten, Seekarten...
+
+
+
+Im Vortrag gibts folgendes zu hören:
+
+* Was ist OpenStreetMap, Geschichte und Aktuelles
+
+* Warum freie Daten?
+
+* Was habe ich davon? - Interessante Anwendungen für Jedermann!
+
+* Einstieg leicht gemacht - wie kann auch ich etwas beitragen?
+
+
+
+Weitere Informationen:
+
+* http://openstreetmap.org
+
+* http://wiki.openstreetmap.org
+
+* http://openrouteservice.org
+
+* http://openstreetbrowser.org
+
+
+
+
+
+
+
+
+Weitere Informationen:
+  http://openstreetmap.org
+  http://wiki.openstreetmap.org
+  http://openrouteservice.org
+  http://openstreetbrowser.org
+
+
+Zur Person -OK
+  28j
+  Student Telematik 
+  Linux seit 2004
+  2j am ZID der MUL
+
+abstract:
+Michael Maier, seit 2004 mit Open Source in Berührung, hat letzten Sommer endlich *sein* Projekt gefunden: *OpenStreetMap*.
+
+  
+desc:
+Michael Maier (28) ist Telematik-Student an der TU Graz. Beschäftigt sich seit 2004 mit Linux (Debian, grml). War neben dem Studium zwei Jahre am ZID der Montanuniversität Leoben tätig.
+
+Seit langem auf der Suche nach einem geeigneten Open Source-Projekt als Hobby, hat er im Sommer 2010 endlich *seine* gemeinnützige Bestimmung gefunden: *OpenStreetMap*. Von da an finden sich täglich immer irgendwann ein paar Minuten Auszeit, in der zur Verbesserung des OSM-Kartenmaterials beigetragen wird.
+
+Sonstige Hobbys neben OSM: Tanzen, Kochen, Linux, Sys-Admin im RoboCup-Team.
+
+
